@@ -4,8 +4,12 @@ Spark project for MS Big Data Telecom based on Kickstarter campaigns 2019-2020
 
 Pour lancer le projet:
 
-Cloner le repo depuis le git :
+Cloner le repo : git clone https://github.com/cyounesv/Spark_TP.git
 
-se mettre dans le dossier spark_project_kickstarter_2019_2020 et lancer la commande :
+Se mettre dans le dossier Spark_TP : cd Spark_TP
 
-./build and submit -n "your path to spark"
+Donner la permission de lancer le launcher : chmod 777 build_and_submit.sh
+
+Puis lancer le projet avec la commande : 
+
+./build_and_submit.sh -n "your path to spark"
