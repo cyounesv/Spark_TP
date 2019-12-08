@@ -13,3 +13,6 @@ Donner la permission de lancer le launcher : chmod 777 build_and_submit.sh
 Puis lancer le projet avec la commande : 
 
 ./build_and_submit.sh -n "your path to spark"
+
+Le fichier lance le preprocessor puis le trainer sur les donnees "clean" obtenues et enregistrees dans le dossier src/main/ressources.
+
