@@ -1,0 +1,1 @@
+[0m[[0m[33mwarn[0m] [0m[0minsecure HTTP request is deprecated 'http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/'; switch to HTTPS or opt-in as ("sbt-plugin-releases-scalasbt" at "http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/").withAllowInsecureProtocol(true)[0m

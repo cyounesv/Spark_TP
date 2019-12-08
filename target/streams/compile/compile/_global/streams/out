@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/nyounes/git_repos/spark_project_kickstarter_2019_2020/src/main/scala/paristech/Trainer.scala:159:47: value avgMetrics is not a member of org.apache.spark.ml.tuning.TrainValidationSplitModel[0m
+[0m[[0m[31merror[0m] [0m[0m    cvModel.getEstimatorParamMaps.zip(cvModel.avgMetrics)[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
